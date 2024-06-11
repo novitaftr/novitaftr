@@ -14,7 +14,7 @@
  
  🌱 I've completed a **Data Science bootcamp at Dibimbing**
 
-💬 Ask me about **Python, SQL, Tableau... or anything [here](https://github.com/novitaftr/novitaftr/issues)**
+💬 Ask me about **Python, SQL, LookerStudio... or anything [here](https://github.com/novitaftr/novitaftr/issues)**
 
 ⚡ Fun fact **Besides coding, I am also passionate about education and making a positive impact. I enjoy teaching in my free time**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgres,figma,notion,sklearn" />
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,github,html,css,vscode,latex" /><br>r>
+    <img src="https://skillicons.dev/icons?i=python,postgres,sklearn" />
+    <img src="https://skillicons.dev/icons?i=arduino,github,anaconda,vscode" /><br>r>
 </div>
 
 <br/>
