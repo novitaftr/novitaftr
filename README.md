@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,postgres,sklearn" />
-    <img src="https://skillicons.dev/icons?i=arduino,github,anaconda,vscode" /><br>r>
+    <img src="https://skillicons.dev/icons?i=arduino,github,anaconda,vscode" /><br>
 </div>
 
 <br/>
