@@ -12,11 +12,11 @@
  
  🔭 I’m currently building **recommendation system using streamlit**
  
- 🌱 I've completed a Data Science bootcamp at Dibimbing**
+ 🌱 I've completed a **Data Science bootcamp at Dibimbing**
 
 💬 Ask me about **Python, SQL, Tableau... or anything [here](https://github.com/novitaftr/novitaftr/issues)**
 
-⚡ Fun fact **Besides coding, I am passionate about education and making a positive impact. I enjoy teaching during my free time.**
+⚡ Fun fact **Besides coding, I am also passionate about education and making a positive impact. I enjoy teaching in my free time**
 
  </div>
  
